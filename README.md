@@ -4,5 +4,5 @@
 
 ### 第一辑
 
-- 生成一个数列 ![](//www.zhihu.com/equation?tex=\{a_i\}&preview=true)，取值范围是 ![](//www.zhihu.com/equation?tex=1%5Cle%20a_i%5Cle%20m&preview=true)。
+- 生成一个数列 ![](http://latex.codecogs.com/gif.latex?\{a_i\})，取值范围是 ![](http://latex.codecogs.com/gif.latex?1\le%20a_i\le%20m)。
 - 
