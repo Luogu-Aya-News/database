@@ -1,10 +1,8 @@
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
-
 欢迎来到 Windy's Casebase！
 
 这里有丰富的数据生成器~
 
 ### 第一辑
 
-- 生成一个数列 $\{a_n\}$，取值范围是 $1\le a_i\le m$。
+- 生成一个数列 ![](//www.zhihu.com/equation?tex=\{a_i\}&preview=true)，取值范围是 ![](//www.zhihu.com/equation?tex=1%5Cle%20a_i%5Cle%20m&preview=true)。
 - 
